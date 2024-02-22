@@ -6,6 +6,7 @@ public class Main {
         System.out.println("Hello github!");
         System.out.println("Hello ThirdTest");
         System.out.println("Hello 4Test");
+        System.out.println("hot-fix test");
 
     }
 }
